@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Who's in Charge Here? Scheduling EV Charging on Dynamic Grids via Online Auctions With Soft Deadlines"
-authors: ["`**`Santiago Correa`**`", "Lei Jiao", "Aidas Jakubenas", "Roby Moyano","Jesus Omana Iglesias", "Jay Taneja"]
+authors: ["*Santiago Correa*", "Lei Jiao", "Aidas Jakubenas", "Roby Moyano","Jesus Omana Iglesias", "Jay Taneja"]
 date: 2020-11-18T11:51:33-04:00
 doi: "https://doi.org/10.1145/3408308.3427619"
 
@@ -16,13 +16,13 @@ publishDate: 2020-10-13T11:51:33-04:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In The 7th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (ACM BuildSys 2020),"
-publication_short: "In ACM BuildSys '20"
+publication: "In The 7th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (ACM BuildSys 2020)."
+publication_short: "In ACM BuildSys '20."
 
 abstract: "The electrification of transport is a crucial step towards decarbonizing energy use and meeting climate goals. However, the increased penetration of electric vehicles also drives substantial additional load on the electricity grid; failure to manage this load can result in higher costs and reduced reliability of electricity. In this study, we present a novel online, auction-based technique to manage the charging of electric vehicles. Our technique draws insight from the cloud computing literature, making use of the concept of soft deadlines to ensure high satisfaction among users, reduced costs for charging infrastructure providers, and maximum flexibility for the electricity system. We evaluate our technique with a range of dynamics possible on typical electricity grids, including variable electricity tariffs and deployment of solar photovoltaic generation. Additionally, we consider vehicle-to-vehicle charging, an emerging paradigm for peer-to-peer energy transfer. Compared to uncontrolled charging and two typically deployed algorithms, our results show improved cost and performance in every scenario, with a reduction in costs of 3.5% to 12% compared to the baseline controlled approaches."
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "In The 7th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (ACM BuildSys 2020)"
 
 tags: []
 categories: []
