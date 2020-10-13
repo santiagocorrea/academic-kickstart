@@ -16,7 +16,7 @@ publishDate: 2019-06-11
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In the 10th International Conference on Future Energy Systems (ACM e-Energy 2019)."
+publication: "In the 10th ACM International Conference on Future Energy Systems (ACM e-Energy 2019)."
 publication_short: "In *ACM e-Energy '19.*"
 
 abstract: "The deployment of solar home systems – consisting of a photovoltaic panel, battery, and a few appliances – is increasing rapidly in low- and middle-income economies. The simplicity of these systems has made them easy to deploy for customers without access to electricity who are far from centralized grids. However, sizing of solar PVs and storage capacity is challenging and error-prone, which in practical terms manifests as a fully-charged battery by midday - resulting in a curtailment of more than 30% of potential electricity. This represents a loss of valuable energy that could have been supplied to nearby homes without solar home systems. Prior work has proposed interconnecting existing solar home systems to increase electricity access. In this work, we analyze the problem of connecting a solar home system with other passive nodes, considering excess energy, the cost of connection, and the payback period. Using datasets of actual consumption, generation, and structure locations from Western Kenya, we show that electricity access in some communities can be increased by more than 3x."
