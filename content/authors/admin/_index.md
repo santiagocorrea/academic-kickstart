@@ -78,4 +78,4 @@ email: ""
 # - Visitors
 ---
 
-I’m a research assistant and Ph.D. student advised by Professor Jay Taneja. I’m interested in the implementation of intelligent systems and IoT applications that use machine learning techniques to build more efficient and reliable energy systems. My research aims to develop computing tools in the context of emerging economies that create similar features to smart electricity grids with less fixed infrastructure but a heavier use of data and algorithms.
+I’m a graduate research assistant and final year Ph.D. student advised by Professor Jay Taneja. I’m interested in the implementation of intelligent systems and applications that use AI techniques to build more efficient and reliable energy systems. Broadly, my research aims to build computing tools to reduce energy poverty in developing countries, making energy systems more accessible, affordable, reliable, and clean.
